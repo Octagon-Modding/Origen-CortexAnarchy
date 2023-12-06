@@ -1,0 +1,19 @@
+id: SPONGE_CAVE
+type: BIOME
+extends:
+  - CAVE
+  - BASE
+color: $biomes/colors.yml:SPONGE_CAVES
+
+vanilla: minecraft:lush_caves
+
+colors:
+  sky: 0xfff124
+  fog: 0xfaf7c7
+  water: 0x297eff
+  water-fog: 0x265fb5
+  grass: 0x33ff7e
+  foliage: 0x33ff7f
+
+palette:
+  - BLOCK:minecraft:sponge: 319
