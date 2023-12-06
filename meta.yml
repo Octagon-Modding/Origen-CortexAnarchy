@@ -4,8 +4,8 @@
 top-y: 319
 ocean-level: 62
 deepslate-top: 2     # Y level where deepslate begins to replace stone
-deepslate-bottom: -12 # Y level where all stone is replaced by deepslate
-bedrock-top: -60     # Y level where deepslate starts to be replaced by bedrock
+deepslate-bottom: -4 # Y level where all stone is replaced by deepslate
+bedrock-top: -59     # Y level where deepslate starts to be replaced by bedrock
 bottom-y: -64
 
 palette-bottom: # Added to the bottom of every biome palette stack
